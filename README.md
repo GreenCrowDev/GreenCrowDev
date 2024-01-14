@@ -8,7 +8,7 @@
 🌱 I’m currently learning **C++** and **Godot GDExtension** development.
 
 <h3>...but I also make devlogs and tutorials to help! 📺</h3>
-<div align="center">
+<div align="left">
 <a href="https://www.youtube.com/watch?v=_GJQfH5vNs8&t">
   <img src="https://pbs.twimg.com/media/GDVpYKhXIAAOuok?format=jpg&name=large" alt="Watch the video" width="500">
 </a>
