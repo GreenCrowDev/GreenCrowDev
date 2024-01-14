@@ -12,7 +12,8 @@
 <h3>...but I also make devlogs and tutorials to help!</h3>
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:GreenCrowDev)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGNcjhU_UiU4PKW3Ib2sg6g)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGNcjhU_UiU4PKW3Ib2sg6g?link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCGNcjhU_UiU4PKW3Ib2sg6g)
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCGNcjhU_UiU4PKW3Ib2sg6g?link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCGNcjhU_UiU4PKW3Ib2sg6g">
 
 <div align="left">
 
