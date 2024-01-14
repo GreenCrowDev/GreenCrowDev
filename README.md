@@ -1,4 +1,19 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0FC5C0&random=false&width=500&height=80&lines=Hi+there+%F0%9F%91%8B;Green+Crow+Dev+here!)](https://git.io/typing-svg)
+
+<h3>Self-taught games and plugins developer from Italy 🇮🇹...</h3>
+
+<br>
+
+- 🔭 I’m currently working on [Hoodie](https://github.com/GreenCrowDev/hoodie), a **Procedural Geometry plugin for Godot 4**.
+- 🌱 I’m currently learning **C++** and **Godot GDExtension** development.
+
+<br>
+
+<h3>...but I also make devlogs and tutorials to help!</h3>
+
+<br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=GreenCrowDev.GreenCrowDev)
 
 <!--
 **GreenCrowDev/GreenCrowDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
