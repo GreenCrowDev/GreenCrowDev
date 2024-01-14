@@ -11,6 +11,13 @@
 
 <h3>...but I also make devlogs and tutorials to help!</h3>
 
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:GreenCrowDev)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGNcjhU_UiU4PKW3Ib2sg6g)
+
+<div align="left">
+
+</div>
+
 <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GreenCrowDev.GreenCrowDev)
