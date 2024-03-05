@@ -14,7 +14,7 @@
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GreenCrowDev.GreenCrowDev)
-[![Join Discord Server](https://img.shields.io/discord/1214578907060117574)](https://discord.gg/pvrcCKTYwu)
+[![Join Discord Server](https://img.shields.io/discord/1214578907060117574)](https://discord.gg/cvJBCNQ5Ye)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/GreenCrowDev)](https://twitter.com/GreenCrowDev)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGNcjhU_UiU4PKW3Ib2sg6g)](https://www.youtube.com/channel/UCGNcjhU_UiU4PKW3Ib2sg6g)
 </div>
